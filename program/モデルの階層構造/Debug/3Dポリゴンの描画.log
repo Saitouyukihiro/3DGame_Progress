@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (3Dポリゴンの描画.vcxproj, カメラの操作.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  camera.cpp
+c:\users\student\documents\visual studio 2015\projects\3dゲーム制作基礎\モデルの階層構造\camera.cpp(166): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dゲーム制作基礎\モデルの階層構造\camera.cpp(172): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  3Dポリゴンの描画.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\3Dゲーム制作基礎\モデルの階層構造\Debug\影の描画.exe
+  3Dポリゴンの描画.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\3Dゲーム制作基礎\モデルの階層構造\Debug\影の描画.pdb (Full PDB)
