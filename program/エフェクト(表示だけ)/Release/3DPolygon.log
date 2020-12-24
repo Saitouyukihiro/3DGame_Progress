@@ -1,0 +1,50 @@
+﻿  Billboard.cpp
+c:\users\student\desktop\visual studio 2015\projects\3d\３dポリゴンの描画雛形\3dpolygon\input.h(14): warning C4005: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD': マクロが再定義されました。
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\XInput.h(81): note: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD' の以前の定義を確認してください
+  camera.cpp
+c:\users\student\desktop\visual studio 2015\projects\3d\３dポリゴンの描画雛形\3dpolygon\input.h(14): warning C4005: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD': マクロが再定義されました。
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\XInput.h(81): note: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD' の以前の定義を確認してください
+camera.cpp(35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(36): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(39): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(44): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(45): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(47): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(48): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(53): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(54): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(56): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(57): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(62): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(63): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(65): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(66): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(75): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+camera.cpp(83): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+camera.cpp(117): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+camera.cpp(130): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+  input.cpp
+c:\users\student\desktop\visual studio 2015\projects\3d\３dポリゴンの描画雛形\3dpolygon\input.h(14): warning C4005: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD': マクロが再定義されました。
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\XInput.h(81): note: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD' の以前の定義を確認してください
+  ligth.cpp
+  main.cpp
+c:\users\student\desktop\visual studio 2015\projects\3d\３dポリゴンの描画雛形\3dpolygon\input.h(14): warning C4005: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD': マクロが再定義されました。
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\XInput.h(81): note: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD' の以前の定義を確認してください
+  Model.cpp
+c:\users\student\desktop\visual studio 2015\projects\3d\３dポリゴンの描画雛形\3dpolygon\input.h(14): warning C4005: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD': マクロが再定義されました。
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\XInput.h(81): note: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD' の以前の定義を確認してください
+  Polygon.cpp
+c:\users\student\desktop\visual studio 2015\projects\3d\３dポリゴンの描画雛形\3dpolygon\input.h(14): warning C4005: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD': マクロが再定義されました。
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\XInput.h(81): note: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD' の以前の定義を確認してください
+  Shadow.cpp
+c:\users\student\desktop\visual studio 2015\projects\3d\３dポリゴンの描画雛形\3dpolygon\input.h(14): warning C4005: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD': マクロが再定義されました。
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\XInput.h(81): note: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD' の以前の定義を確認してください
+  wall.cpp
+c:\users\student\desktop\visual studio 2015\projects\3d\３dポリゴンの描画雛形\3dpolygon\input.h(14): warning C4005: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD': マクロが再定義されました。
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\XInput.h(81): note: 'XINPUT_GAMEPAD_TRIGGER_THRESHOLD' の以前の定義を確認してください
+  コード生成しています。
+  All 78 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  3DPolygon.vcxproj -> C:\Users\student\Desktop\Visual Studio 2015\Projects\3D\３Dポリゴンの描画雛形\3DPolygon\Release\3DPolygon.exe
+  3DPolygon.vcxproj -> C:\Users\student\Desktop\Visual Studio 2015\Projects\3D\３Dポリゴンの描画雛形\3DPolygon\Release\3DPolygon.pdb (Full PDB)
