@@ -1,0 +1,5 @@
+﻿  Model.cpp
+c:\users\student\desktop\visual studio 2015\projects\3d\３dポリゴンの描画雛形\3dpolygon\model.cpp(211): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+c:\users\student\desktop\visual studio 2015\projects\3d\３dポリゴンの描画雛形\3dpolygon\model.cpp(239): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+  3DPolygon.vcxproj -> C:\Users\student\Desktop\Visual Studio 2015\Projects\3D\３Dポリゴンの描画雛形\3DPolygon\Debug\3DPolygon.exe
+  3DPolygon.vcxproj -> C:\Users\student\Desktop\Visual Studio 2015\Projects\3D\３Dポリゴンの描画雛形\3DPolygon\Debug\3DPolygon.pdb (Full PDB)
