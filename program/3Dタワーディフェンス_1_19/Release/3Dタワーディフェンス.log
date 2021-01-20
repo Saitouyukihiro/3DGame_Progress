@@ -1,0 +1,25 @@
+﻿  camera.cpp
+camera.cpp(148): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(154): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  fade.cpp
+  floo.cpp
+  keyinput.cpp
+  light.cpp
+  main.cpp
+  mouseinput.cpp
+  player.cpp
+  girl.cpp
+girl.cpp(150): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+girl.cpp(151): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+girl.cpp(152): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+girl.cpp(153): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  result.cpp
+  shadow.cpp
+  title.cpp
+  wall.cpp
+  worldsky.cpp
+  コード生成しています。
+  All 66 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  3Dタワーディフェンス.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\プロジェクト演習\GSP1\3Dタワーディフェンス\Release\3Dタワーディフェンス.exe
+  3Dタワーディフェンス.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\プロジェクト演習\GSP1\3Dタワーディフェンス\Release\3Dタワーディフェンス.pdb (Full PDB)
