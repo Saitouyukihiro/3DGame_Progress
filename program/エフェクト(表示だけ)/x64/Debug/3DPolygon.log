@@ -1,0 +1,25 @@
+﻿  wall.cpp
+c:\users\student\desktop\git\3dgame_progress\program\エフェクト(表示だけ)\main.h(13): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Shadow.cpp
+c:\users\student\desktop\git\3dgame_progress\program\エフェクト(表示だけ)\main.h(13): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Polygon.cpp
+c:\users\student\desktop\git\3dgame_progress\program\エフェクト(表示だけ)\main.h(13): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Object.cpp
+c:\users\student\desktop\git\3dgame_progress\program\エフェクト(表示だけ)\main.h(13): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Model.cpp
+c:\users\student\desktop\git\3dgame_progress\program\エフェクト(表示だけ)\main.h(13): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  main.cpp
+c:\users\student\desktop\git\3dgame_progress\program\エフェクト(表示だけ)\main.h(13): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  ligth.cpp
+c:\users\student\desktop\git\3dgame_progress\program\エフェクト(表示だけ)\main.h(13): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  input.cpp
+c:\users\student\desktop\git\3dgame_progress\program\エフェクト(表示だけ)\main.h(13): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Effect.cpp
+c:\users\student\desktop\git\3dgame_progress\program\エフェクト(表示だけ)\main.h(13): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  camera.cpp
+c:\users\student\desktop\git\3dgame_progress\program\エフェクト(表示だけ)\main.h(13): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Bullet.cpp
+c:\users\student\desktop\git\3dgame_progress\program\エフェクト(表示だけ)\main.h(13): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Billboard.cpp
+c:\users\student\desktop\git\3dgame_progress\program\エフェクト(表示だけ)\main.h(13): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  コードを生成中...
