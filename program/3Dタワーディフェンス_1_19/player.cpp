@@ -181,12 +181,12 @@ void UpdatePlayer(void)
 
 	if (GetKeyboardTrigger(DIK_Q) == true)
 	{
-		g_aPlayer.nTurretIdx = SetTurretUse(D3DXVECTOR3(0.0f, pCamera->Rot.y, 0.0f), D3DXVECTOR3(pCamera->PosR.x, 0.0f, pCamera->PosR.z), bCollision);
+		g_aPlayer.nTurretIdx = SetTurretUse(D3DXVECTOR3(0.0f, pCamera->Rot.y, 0.0f), D3DXVECTOR3(pCamera->PosR.x, 0.0f, pCamera->PosR.z - 150.0f), bCollision);
 		g_aPlayer.aState = PLAYER_STATE_CONSTRUCTTION;
 	}
 	if (g_aPlayer.aState == PLAYER_STATE_CONSTRUCTTION || bCollision == true)
 	{
-		SetTurret(g_aPlayer.nTurretIdx, D3DXVECTOR3(0.0f, pCamera->Rot.y, 0.0f), D3DXVECTOR3(pCamera->PosR.x, 0.0f, pCamera->PosR.z), bCollision);
+		SetTurret(g_aPlayer.nTurretIdx, D3DXVECTOR3(0.0f, pCamera->Rot.y, 0.0f), D3DXVECTOR3(pCamera->PosR.x, 0.0f, pCamera->PosR.z - 150.0f), bCollision);
 	}
 	if (GetKeyboardPress(DIK_E) == true)
 	{
