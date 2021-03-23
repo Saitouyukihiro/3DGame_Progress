@@ -1,0 +1,41 @@
+﻿  Effect.cpp
+Effect.cpp(331): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+Effect.cpp(344): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+Effect.cpp(354): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+Effect.cpp(369): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+Effect.cpp(389): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+Effect.cpp(417): warning C4553: '==': 演算子にプログラム上の作用がありません。'=' を意図しましたか?
+Effect.cpp(646): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+Effect.cpp(647): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+Effect.cpp(648): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+Effect.cpp(649): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+Effect.cpp(682): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+Effect.cpp(686): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Field.cpp
+  camera.cpp
+camera.cpp(53): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(54): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(56): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(57): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(61): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(62): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(64): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(65): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(70): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(71): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(73): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(74): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(79): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(80): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(82): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(83): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(112): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+camera.cpp(120): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+  main.cpp
+  コード生成しています。
+  24 of 60 functions (40.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  Effect.vcxproj -> C:\Users\student\Desktop\Visual Studio 2015\Projects\ツール\Effect\Release\Effect.exe
+  Effect.vcxproj -> C:\Users\student\Desktop\Visual Studio 2015\Projects\ツール\Effect\Release\Effect.pdb (Full PDB)
