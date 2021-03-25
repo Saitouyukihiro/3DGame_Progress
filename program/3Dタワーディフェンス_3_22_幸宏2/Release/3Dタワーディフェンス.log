@@ -1,0 +1,23 @@
+﻿  camera.cpp
+camera.cpp(100): warning C4244: '=': 'float' から 'LONG' への変換です。データが失われる可能性があります。
+camera.cpp(101): warning C4244: '=': 'float' から 'LONG' への変換です。データが失われる可能性があります。
+camera.cpp(120): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(121): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(123): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(124): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(128): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(129): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(131): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(132): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(136): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(137): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(139): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(140): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(144): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(145): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(147): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(148): error C2065: 'g_move': 定義されていない識別子です。
+camera.cpp(155): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(161): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(170): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(175): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
