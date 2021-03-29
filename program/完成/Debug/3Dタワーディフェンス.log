@@ -1,0 +1,9 @@
+﻿  unlimted.cpp
+c:\users\student\desktop\3dタワーディフェンス_3_29_エフェクト付き\unlimted.cpp(226): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\3dタワーディフェンス_3_29_エフェクト付き\unlimted.cpp(227): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\3dタワーディフェンス_3_29_エフェクト付き\unlimted.cpp(261): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\3dタワーディフェンス_3_29_エフェクト付き\unlimted.cpp(262): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\3dタワーディフェンス_3_29_エフェクト付き\unlimted.cpp(296): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\3dタワーディフェンス_3_29_エフェクト付き\unlimted.cpp(297): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  3Dタワーディフェンス.vcxproj -> C:\Users\student\Desktop\3Dタワーディフェンス_3_29_エフェクト付き\Debug\3Dタワーディフェンス.exe
+  3Dタワーディフェンス.vcxproj -> C:\Users\student\Desktop\3Dタワーディフェンス_3_29_エフェクト付き\Debug\3Dタワーディフェンス.pdb (Full PDB)
