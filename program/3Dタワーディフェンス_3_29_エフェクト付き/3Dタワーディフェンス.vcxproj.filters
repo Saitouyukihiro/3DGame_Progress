@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\input">
+      <UniqueIdentifier>{7af0645a-be2a-4b96-8bdd-eabe62cfa024}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\input">
+      <UniqueIdentifier>{1b66e48c-2761-4030-8a51-bfb4f6b2d804}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\2D">
+      <UniqueIdentifier>{b2418553-1774-47be-9ded-7d47380eed86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\2D\タイトル">
+      <UniqueIdentifier>{6e6b2d6f-a749-4849-a751-e226bb75729b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\3D">
+      <UniqueIdentifier>{ffa8f3cd-ed20-4167-82ab-2a8549514034}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\3D\メイン">
+      <UniqueIdentifier>{8fbfff6d-1350-4e54-a7b7-e827a1d2cfed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\3D\環境">
+      <UniqueIdentifier>{5f50bd92-1c3e-49a7-8ff6-49aee897a829}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\3D\model">
+      <UniqueIdentifier>{1265647b-51bc-4940-8251-e9f814f72464}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\3D\model\enemy">
+      <UniqueIdentifier>{11943f11-0da7-4697-844b-391a999be93f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\2D">
+      <UniqueIdentifier>{b04aaf23-6f01-4c06-8098-247f3875234f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\3D">
+      <UniqueIdentifier>{7d1be945-dac3-4332-8683-23a136b94e36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\2D\タイトル">
+      <UniqueIdentifier>{b6b5bbfb-a149-47f9-8774-19bb65fb9691}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\2D\リザルト">
+      <UniqueIdentifier>{9cc86d29-e08a-49c4-ab7a-214b45e45c6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\3D\メイン">
+      <UniqueIdentifier>{8cfd9c6c-f19e-4086-a640-3a21063d8496}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\3D\環境">
+      <UniqueIdentifier>{a24b29c3-a847-457a-8eef-3b87241bacc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\3D\model">
+      <UniqueIdentifier>{780e995f-bafc-45b2-b712-5a84d333306b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\3D\model\enemy">
+      <UniqueIdentifier>{f49eb0e5-d877-40f7-b74c-5a9340c8af29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\3D\model\プレイヤー">
+      <UniqueIdentifier>{a0c43132-e82d-40ea-822a-7400d89b24b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\3D\model\プレイヤー">
+      <UniqueIdentifier>{36951b9b-670a-4836-979a-cf0e16a560cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\ゲーム">
+      <UniqueIdentifier>{d3ca6306-3c50-4d99-b8d5-50ce018936d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\ゲーム">
+      <UniqueIdentifier>{c3c78b8c-0352-48ea-b3fe-ebcc3ff86742}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\2D\リザルト">
+      <UniqueIdentifier>{cce9581a-48d2-4898-be0e-665ab84bdd02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\2D\選択画面">
+      <UniqueIdentifier>{9061851c-181d-4a0d-bb8f-b13bfb596320}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\2D\選択画面">
+      <UniqueIdentifier>{5f2f6edf-8766-4b6f-9967-08d1ab944f44}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="floo.cpp">
+      <Filter>ソース ファイル\3D\環境</Filter>
+    </ClCompile>
+    <ClCompile Include="wall.cpp">
+      <Filter>ソース ファイル\3D\環境</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>ソース ファイル\3D\メイン</Filter>
+    </ClCompile>
+    <ClCompile Include="light.cpp">
+      <Filter>ソース ファイル\3D\メイン</Filter>
+    </ClCompile>
+    <ClCompile Include="keyinput.cpp">
+      <Filter>ソース ファイル\input</Filter>
+    </ClCompile>
+    <ClCompile Include="mouseinput.cpp">
+      <Filter>ソース ファイル\input</Filter>
+    </ClCompile>
+    <ClCompile Include="worldsky.cpp">
+      <Filter>ソース ファイル\3D\環境</Filter>
+    </ClCompile>
+    <ClCompile Include="fade.cpp">
+      <Filter>ソース ファイル\3D\メイン</Filter>
+    </ClCompile>
+    <ClCompile Include="shadow.cpp">
+      <Filter>ソース ファイル\3D\環境</Filter>
+    </ClCompile>
+    <ClCompile Include="title.cpp">
+      <Filter>ソース ファイル\2D\タイトル</Filter>
+    </ClCompile>
+    <ClCompile Include="result.cpp">
+      <Filter>ソース ファイル\2D\リザルト</Filter>
+    </ClCompile>
+    <ClCompile Include="guneffect.cpp">
+      <Filter>ソース ファイル\3D\model\プレイヤー</Filter>
+    </ClCompile>
+    <ClCompile Include="5wave.cpp">
+      <Filter>ソース ファイル\ゲーム</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル\3D\メイン</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>ソース ファイル\3D\model\プレイヤー</Filter>
+    </ClCompile>
+    <ClCompile Include="spider.cpp">
+      <Filter>ソース ファイル\3D\model\enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="girl.cpp">
+      <Filter>ソース ファイル\3D\model\プレイヤー</Filter>
+    </ClCompile>
+    <ClCompile Include="ui.cpp">
+      <Filter>ソース ファイル\3D\model\プレイヤー</Filter>
+    </ClCompile>
+    <ClCompile Include="turret.cpp">
+      <Filter>ソース ファイル\3D\model\プレイヤー</Filter>
+    </ClCompile>
+    <ClCompile Include="cube.cpp">
+      <Filter>ソース ファイル\3D\model\プレイヤー</Filter>
+    </ClCompile>
+    <ClCompile Include="select.cpp">
+      <Filter>ソース ファイル\2D\選択画面</Filter>
+    </ClCompile>
+    <ClCompile Include="picture.cpp">
+      <Filter>ソース ファイル\3D\メイン</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>ソース ファイル\3D\メイン</Filter>
+    </ClCompile>
+    <ClCompile Include="bullet.cpp">
+      <Filter>ソース ファイル\3D\model\プレイヤー</Filter>
+    </ClCompile>
+    <ClCompile Include="score.cpp">
+      <Filter>ソース ファイル\3D\環境</Filter>
+    </ClCompile>
+    <ClCompile Include="Magazine.cpp">
+      <Filter>ソース ファイル\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="gunmodel.cpp">
+      <Filter>ソース ファイル\3D\model\プレイヤー</Filter>
+    </ClCompile>
+    <ClCompile Include="rank.cpp">
+      <Filter>ソース ファイル\2D\リザルト</Filter>
+    </ClCompile>
+    <ClCompile Include="enemycount.cpp">
+      <Filter>ソース ファイル\3D\model\enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="unlimted.cpp">
+      <Filter>ソース ファイル\ゲーム</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>ソース ファイル\2D</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="floo.h">
+      <Filter>ヘッダー ファイル\3D\環境</Filter>
+    </ClInclude>
+    <ClInclude Include="wall.h">
+      <Filter>ヘッダー ファイル\3D\環境</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>ヘッダー ファイル\3D\model\プレイヤー</Filter>
+    </ClInclude>
+    <ClInclude Include="camara.h">
+      <Filter>ヘッダー ファイル\3D\メイン</Filter>
+    </ClInclude>
+    <ClInclude Include="light.h">
+      <Filter>ヘッダー ファイル\3D\メイン</Filter>
+    </ClInclude>
+    <ClInclude Include="mouseinput.h">
+      <Filter>ヘッダー ファイル\input</Filter>
+    </ClInclude>
+    <ClInclude Include="keyinput.h">
+      <Filter>ヘッダー ファイル\input</Filter>
+    </ClInclude>
+    <ClInclude Include="worldsky.h">
+      <Filter>ヘッダー ファイル\3D\環境</Filter>
+    </ClInclude>
+    <ClInclude Include="fade.h">
+      <Filter>ヘッダー ファイル\3D\メイン</Filter>
+    </ClInclude>
+    <ClInclude Include="shadow.h">
+      <Filter>ヘッダー ファイル\3D\環境</Filter>
+    </ClInclude>
+    <ClInclude Include="title.h">
+      <Filter>ヘッダー ファイル\2D\タイトル</Filter>
+    </ClInclude>
+    <ClInclude Include="result.h">
+      <Filter>ヘッダー ファイル\2D\リザルト</Filter>
+    </ClInclude>
+    <ClInclude Include="guneffect.h">
+      <Filter>ヘッダー ファイル\3D\model\プレイヤー</Filter>
+    </ClInclude>
+    <ClInclude Include="5wave.h">
+      <Filter>ヘッダー ファイル\ゲーム</Filter>
+    </ClInclude>
+    <ClInclude Include="spider.h">
+      <Filter>ヘッダー ファイル\3D\model\enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="ui.h">
+      <Filter>ヘッダー ファイル\3D\model\プレイヤー</Filter>
+    </ClInclude>
+    <ClInclude Include="girl.h">
+      <Filter>ヘッダー ファイル\3D\model\プレイヤー</Filter>
+    </ClInclude>
+    <ClInclude Include="turret.h">
+      <Filter>ヘッダー ファイル\3D\model\プレイヤー</Filter>
+    </ClInclude>
+    <ClInclude Include="cube.h">
+      <Filter>ヘッダー ファイル\3D\model\プレイヤー</Filter>
+    </ClInclude>
+    <ClInclude Include="select.h">
+      <Filter>ヘッダー ファイル\2D\選択画面</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>ヘッダー ファイル\3D\メイン</Filter>
+    </ClInclude>
+    <ClInclude Include="Picture.h">
+      <Filter>ヘッダー ファイル\3D\メイン</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>ヘッダー ファイル\3D\メイン</Filter>
+    </ClInclude>
+    <ClInclude Include="bullet.h">
+      <Filter>ヘッダー ファイル\3D\model\プレイヤー</Filter>
+    </ClInclude>
+    <ClInclude Include="score.h">
+      <Filter>ヘッダー ファイル\3D\環境</Filter>
+    </ClInclude>
+    <ClInclude Include="Magazine.h">
+      <Filter>ヘッダー ファイル\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="gunmodel.h">
+      <Filter>ヘッダー ファイル\3D\model\プレイヤー</Filter>
+    </ClInclude>
+    <ClInclude Include="rank.h">
+      <Filter>ヘッダー ファイル\2D\リザルト</Filter>
+    </ClInclude>
+    <ClInclude Include="enemycount.h">
+      <Filter>ヘッダー ファイル\3D\model\enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="unlimted.h">
+      <Filter>ヘッダー ファイル\ゲーム</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>ヘッダー ファイル\2D</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
